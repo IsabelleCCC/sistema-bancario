@@ -1,6 +1,5 @@
-# sistema-bancario
-<h1 align="center"> Sistema Bancário em C </h1>
-<p align="center"> Projeto feito para a disciplina de Algoritmos e Lógica de Programação utilizando structs. </p>
+<h1"> Sistema Bancário em C </h1>
+<p> Projeto feito para a disciplina de Algoritmos e Lógica de Programação utilizando structs. </p>
 
 ### Funcionalidades
 <ul>

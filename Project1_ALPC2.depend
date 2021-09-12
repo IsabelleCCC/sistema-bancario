@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626716113 source:c:\users\isabe\documents\alpc2\project1_alpc2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
